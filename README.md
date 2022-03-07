@@ -9,18 +9,17 @@ We get some pretty incredible projects from our python for data science course (
 
 ### Fall 2021
 
-1. Analyzing Gun Violence Trends from 2014-2021
+1. [Analyzing Gun Violence Trends from 2014-2021](https://github.com/UCB-INFO-PYTHON/Project2_Showcase/tree/main/gun_violence)
 
    by Florencia Froebel Guillen, Emily Huang, James Kelly
 
-   - [paper](https://github.com/UCB-INFO-PYTHON/Project2PetitSohnREPO/blob/master/W200%20Fall18%20_%20Thursday%2C%204_00%20_%20Project%202%20_%20Petit%20Sohn.pdf)
-   - [code](https://github.com/UCB-INFO-PYTHON/Project2PetitSohnREPO)
+   - [paper](https://github.com/UCB-INFO-PYTHON/Project2_Showcase/blob/main/gun_violence/Project%202%20Final%20Report.pdf)
+   - [code](https://github.com/UCB-INFO-PYTHON/Project2_Showcase/blob/main/gun_violence/Project%202.ipynb)
    - Reason for selection: "Great analysis!" -Prof Pudipeddi
 
 ### Fall 2018
 
-1.[An Exploratory Analysis of the Relationship
-between Housing Prices and Evictions in the U.S.](
+1.[An Exploratory Analysis of the Relationship between Housing Prices and Evictions in the U.S.](
 https://ucb-info-python.github.io/Project2PetitSohnREPO/.)
 *by Paul Petit and Adam Sohn* 
 
